@@ -11,7 +11,7 @@ I manage large teams building scalable products, developer platforms, cloud infr
 ![Experience](https://img.shields.io/badge/Experience-20%2B%20years-0A66C2)
 ![Location](https://img.shields.io/badge/Based%20in-Texas-006847)
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-regischarton-blue?logo=)](https://linkedin.com/regischarton)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-regischarton-blue?logo=)](https://linkedin.com/in/regischarton)
 
 [![X](https://img.shields.io/badge/@regischarton-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/regischarton)
 [![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regis.charton@gmail.com)
